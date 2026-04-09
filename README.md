@@ -1,4 +1,4 @@
-## 🆚 RAG_Local vs RAG_API Comparison
+## 🆚 Compare RAG_Local and RAG_API that I used in this project.
 
 | Feature | RAG_Local | RAG_API |
 |---------|-----------|---------|
